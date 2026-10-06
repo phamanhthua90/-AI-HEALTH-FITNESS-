@@ -1,0 +1,6 @@
+{
+  "name": "AI Health & Fitness - Cá nhân hóa thực đơn & tập luyện",
+  "description": "Ứng dụng AI xây dựng thực đơn ăn uống và kế hoạch tập luyện cá nhân hóa 7 ngày và 4 tuần cùng trợ lý sức khỏe thông minh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
